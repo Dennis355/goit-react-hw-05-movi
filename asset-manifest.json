@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dennis355/goit-react-hw-05-movi/static/css/main.7acaea2f.css",
+    "main.js": "/Dennis355/goit-react-hw-05-movi/static/js/main.0005015f.js",
+    "static/js/415.8371f502.chunk.js": "/Dennis355/goit-react-hw-05-movi/static/js/415.8371f502.chunk.js",
+    "static/js/563.8c5bd235.chunk.js": "/Dennis355/goit-react-hw-05-movi/static/js/563.8c5bd235.chunk.js",
+    "index.html": "/Dennis355/goit-react-hw-05-movi/index.html",
+    "main.7acaea2f.css.map": "/Dennis355/goit-react-hw-05-movi/static/css/main.7acaea2f.css.map",
+    "main.0005015f.js.map": "/Dennis355/goit-react-hw-05-movi/static/js/main.0005015f.js.map",
+    "415.8371f502.chunk.js.map": "/Dennis355/goit-react-hw-05-movi/static/js/415.8371f502.chunk.js.map",
+    "563.8c5bd235.chunk.js.map": "/Dennis355/goit-react-hw-05-movi/static/js/563.8c5bd235.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0005015f.js"
+  ]
+}
